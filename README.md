@@ -1,4 +1,4 @@
-# 🌊 Signal & Flow — by SW  
+# 🌊 Signal & Flow by SW | Week 2 
 ### Your Weekly Market Brief
 
 ---
@@ -33,13 +33,13 @@ Capital continued rotating into high-conviction areas—primarily AI infrastruct
 
 ---
 
-## 📉 Visuals
+## Visualizations
 
 ### S&P 500 — Weekly Trend
-![S&P 500 — Week 2](S&PWk2.png)
+![S&P 500 — Weekly Trend](S&PWk2.png)
 
 ### Sector Rotation — Weekly Performance
-![Sector Rotation — Week 2](SectorsWk2.png)
+![Sector Rotation — Weekly Performance](SectorsWk2.png)
 
 ---
 
